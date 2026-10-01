@@ -1,0 +1,20 @@
+{
+    "habits": [
+        {
+            "id": 1,
+            "name": "Walk 20 minutes",
+            "category": "Health",
+            "history": [
+                "2026-10-01"
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Coding 20 mins",
+            "category": "Learning",
+            "history": [
+                "2026-10-01"
+            ]
+        }
+    ]
+}
